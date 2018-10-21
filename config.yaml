@@ -1,0 +1,6 @@
+client_id: XP5ZSS0H253AGZJ4NKK5M4A3NC14KGVESI1MBYC1DWUU1GTM
+client_secret: 3JVQOYJGCAYSSDB4LFM2SF3NTKMIS5ILBKDYX34XRGBQ4HSA
+
+
+# Number of API calls to /venue endpoint will be grid_size^2
+grid_size: 100
